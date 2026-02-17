@@ -40,5 +40,7 @@ int main()
     cout <<"\nnome "<<i+1<<": "<<  vet[i].nome<<endl;
     cout <<"\nnota "<<i+1<<": "<<  vet[i].notaf<<endl;
     }
+        delete[] vet;
 
+    //adicionar topico 6
 }
