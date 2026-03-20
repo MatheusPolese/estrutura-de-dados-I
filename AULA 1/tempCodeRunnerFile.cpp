@@ -1,0 +1,3 @@
+
+
+        strBuffer = stringstream(linha);
